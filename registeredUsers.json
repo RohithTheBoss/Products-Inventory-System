@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "loginCredentials": {
+        "email": "harsha@gmail.com",
+        "password": "1234567"
+      },
+      "firstName": "Harsha Vardhan",
+      "lastName": "Varanasi",
+      "location": "Bangalore",
+      "mobile": "9629774838",
+      "id": 1
+    },
+    {
+      "loginCredentials": {
+        "email": "varanasiharika@gmail.com",
+        "password": "1234567"
+      },
+      "firstName": "Harika",
+      "lastName": "Varanasi",
+      "location": "Vizag",
+      "mobile": "9629774838",
+      "id": 2
+    },
+    {
+      "loginCredentials": {
+        "email": "harsha1@gmail.com",
+        "password": "1234557"
+      },
+      "firstName": "harsha",
+      "lastName": "vardan",
+      "location": "Hyderabad",
+      "mobile": "1234567890",
+      "id": 3
+    },
+    {
+      "loginCredentials": {
+        "email": "rohith2@demo.com",
+        "password": "1234567"
+      },
+      "firstName": "Rohith Reddy",
+      "lastName": "Rupireddy",
+      "location": "Hyd",
+      "mobile": "9999999999",
+      "id": 4
+    }
+  ],
+  "registeredLogins": [
+    {
+      "email": "harsha@gmail.com",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "email": "varanasiharika@gmail.com",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "email": "harsha1@gmail.com",
+      "password": "1234557",
+      "id": 3
+    },
+    {
+      "email": "rohith2@demo.com",
+      "password": "1234567",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "productName": "Google Pixel 3",
+      "productDescription": "The OnePlus 7 Pro was created with premium quality in mind. From its seamless glass curves to its immersive 6.67 inch Fluid AMOLED display, this is what true craftsmanship looks and feels like.",
+      "manufacturer": "Google IND",
+      "price": 1000,
+      "quantity": 3,
+      "id": "8aa9ca71-1757-41cc-a224-64df19dccbb7",
+      "viewedCount": 127
+    },
+    {
+      "productName": "One Plus 7 Pro",
+      "productDescription": "The OnePlus 7 Pro was created with premium quality in mind. From its seamless glass curves to its immersive 6.67 inch Fluid AMOLED display, this is what true craftsmanship looks and feels like.",
+      "manufacturer": "One Plus",
+      "price": 50000,
+      "quantity": 15,
+      "id": "d6951322-5212-48a1-8d83-dc62a9819f58",
+      "viewedCount": 13
+    },
+    {
+      "productName": "One Plus 6",
+      "productDescription": "The OnePlus 6 was created with premium quality in mind. From its seamless glass curves to its immersive 6.67 inch Fluid AMOLED display, this is what true craftsmanship looks and feels like.",
+      "manufacturer": "One Plus",
+      "price": 45000,
+      "quantity": 15,
+      "id": "fa2e39ff-2203-49df-a09c-c15114e5d21e",
+      "viewedCount": 10
+    },
+    {
+      "productName": "Sony Bravia",
+      "productDescription": "BRAVIA is a brand of Sony Visual Products Inc., a wholly owned subsidiary of Sony Corporation, and used for its television products. Its backronym is \"Best Resolution Audio Visual Integrated Architecture\"",
+      "manufacturer": "Sony",
+      "price": 100000,
+      "quantity": 1,
+      "id": "53de46b4-db25-431d-aeab-4b357d93bb92",
+      "viewedCount": 3
+    },
+    {
+      "productName": "One Plus 3T",
+      "productDescription": "The OnePlus 3T was created with premium quality in mind. From its seamless glass curves to its immersive 6.67 inch Fluid AMOLED display",
+      "manufacturer": "One Plus",
+      "price": 2500,
+      "quantity": 1,
+      "id": "ba71fdff-6c3c-43d3-99b0-ae2b75d3e24a",
+      "viewedCount": 8
+    },
+    {
+      "productName": "nokia X6",
+      "productDescription": "Nokia Networks is Nokia Corporation's largest division. It is a multinational data networking and telecommunications equipment company headquartered in Espoo, Finland, and is the world's third-largest telecoms equipment manufacturer",
+      "manufacturer": "Nokia",
+      "price": 20000,
+      "quantity": 1,
+      "id": "b64fc6c4-53cb-430d-8d3c-dc52dc9b7a1e",
+      "viewedCount": 9
+    }
+  ]
+}
